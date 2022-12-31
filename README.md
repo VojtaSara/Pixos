@@ -30,4 +30,4 @@ ve formátu jméno | vytvořeno | název souboru fotky: počet této fotky, náz
 
 Stránku "Fotky ještě nebyly zveřejněny, očekáváné datum:" po zadání kódu příliš brzy. Propojít zadání kódu s backendem. Vytvořit automatický
 generátor kódu + příprava podkladu pro tisk. Rozčlenit Google Sheets tabulku podle tříd a škol. Zlepšít formátování tabulky po domluvě nejlepšího formátu.
-Grafická "fasáda" celého webu :).
+Grafická "fasáda" celého webu :). Automatické maily studentům.
